@@ -1,4 +1,4 @@
 export enum RecipeName {
-    IronIngotDefault,
-    IronRodDefault,
+    IronIngotDefault = 'IronIngotDefault',
+    IronRodDefault = 'IronRodDefault',
 }
